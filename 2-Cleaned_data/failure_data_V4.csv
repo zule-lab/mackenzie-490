@@ -1,0 +1,68 @@
+Nest_ID,site,species,date_found ,date_failed ,failure_stage,active_days,reason ,potential_predator,smallstems_ha,nest_tree_DBH,nest_tree_height,nest_height,canopy_cover,vertical_complexity,coverage,distance_to_trail,comments
+N2C1TECH1,technoparc,cardinal ,02/05/2023,03/05/2023,building,6,abandonment,,15915.45709,0.053,13.63,1.32,1.296,2,4.875,1.477121255,nest was complete
+N3C2BDL1,bdl,cardinal ,03/05/2023,23/05/2023,incubation,14,predation,,9549.274255,0.183,9.08,1.98,7.132,2,3.875,1,
+N5R3TECH2,technoparc,robin,05/05/2023,12/05/2023,incubation,16,predation,,15915.45709,0.728,12.61,0.74,5.948,2,0,1.698970004,
+N6R4TECH3,technoparc,robin,05/05/2023,28/05/2023,nestling,29,predation,,,,,,,,,1.113943352,
+N7R5TECH4,technoparc,robin,05/05/2023,12/05/2023,laying ,8,predation,,22281.63993,0.086,4.13,1.01,10.099,1,5.75,1.602059991,double check this one? 
+N8R6TECH5,technoparc,robin,05/05/2023,06/05/2023,incubation,16,predation,,3183.091418,0.115,11.94,0.77,0.844,2,3.375,0.77815125,
+N9R7TECH6,technoparc,robin,05/05/2023,06/05/2023,incubation,10,abandonment,,6366.182837,0.114,8.71,1.37,0.465,1,3.625,-0.259637311,"Could be laying or incubation, need second opinion "
+N10R8BDL2,bdl,robin,06/05/2023,06/05/2023,laying ,8,predation,terrestrial_mammalian ,22281.63993,0.095,,1.38,5.871,3,1.375,-1.754487332,"Found with cracked egg, laying or incubation???"
+N11C3BDL3,bdl,cardinal ,06/05/2023,07/05/2023,building,3,abandonment,,9549.274255,,2,1.5,0.392,2,0.75,1,
+N13R9TECH8,technoparc,robin,08/05/2023,09/05/2023,building,3,predation,,,0.116,8.6,1.3,0.063,1,,1,
+N16C6TECH11,technoparc,cardinal ,08/05/2023,12/05/2023,nestling,26,predation,,3183.091418,,,1.24,,1,4.125,0.176091259,"Was able to age nestlings, double check? "
+N17C7TECH12,technoparc,cardinal ,08/05/2023,09/05/2023,laying ,8,abandonment,,,,,,,,,,Nest found with 1 egg - could be laying or incubation
+N18C8TECH13,technoparc,cardinal ,08/05/2023,02/06/2023,laying ,9,predation,,,,,,,,,1,predation or abandonment 
+N20R11TECH15,technoparc,robin,08/05/2023,08/05/2023,laying ,8,predation,,25464.73135,0.031,7.79,1.12,1.542,2,2.375,1.301029996,"2 predated eggs, double check "
+N22C11BDL5,bdl,cardinal ,09/05/2023,09/05/2023,laying ,8,predation,avian,15915.45709,,,5.49,,1,,-0.036212173,
+N24C13BDL7,bdl,cardinal ,09/05/2023,19/05/2023,nestling,21,abandonment,,0,0.29,10.5,0.98,2.574,2,1.125,-0.096910013,
+N26C14STNY2,stny,cardinal ,10/05/2023,13/05/2023,building,6,abandonment,,12732.36567,0.448,9.97,2.5,,1,,0.255272505,
+N27R13TECH16,technoparc,robin,11/05/2023,20/05/2023,incubation,,predation,terrestrial_mammalian ,318309.1418,0.102,7.94,1.9,0.299,3,2.5,1.301029996,Weird case
+N28R14TECH17,technoparc,robin,11/05/2023,12/05/2023,building,6,abandonment,,,,,,,,,,
+N29R15TECH18,technoparc,robin,11/05/2023,31/05/2023,nestling,28,predation,,12732.36567,0.057,9.27,0.6,1.476,2,0,0.488550717,
+N30R16TECH19,technoparc,robin,11/05/2023,22/05/2023,incubation,16,predation,,12732.36567,0.045,8.6,0.9,4.421,2,2.625,0.394451681,
+N34C16BDL11,bdl,cardinal ,12/05/2023,13/05/2023,building,6,abandonment,,3183.091418,,,0.85,,3,0,0.485721426,
+N36C17BDL13,bdl,cardinal ,15/05/2023,16/05/2023,laying ,8,abandonment,,19098.54851,0.021,6.4,4.77,0.402,3,,0.84509804,incubationor laying??
+N37C18BDL14,bdl,cardinal ,15/05/2023,04/06/2023,nestling,24,unknown ,,63661.82837,0.039,1.88,1.05,,1,1.666666667,0.117271296,predation?? Weather??
+N39R21TECH21,technoparc,robin,17/05/2023,22/05/2023,building,6,abandonment,,12732.36567,0.039,9.79,0.67,3.722,2,2.625,1.698970004,
+N41R23TECH23,technoparc,robin,17/05/2023,06/06/2023,nestling,29,predation,,22281.63993,NA,NA,4.74,,2,0,0.666517981,weird 
+N42R24TECH24,bdl,robin,17/05/2023,28/05/2023,incubation,16,predation,terrestrial_mammalian ,,0.12,9.23,,,3,,0.73239376,
+N44R26BDL15,bdl,robin,18/05/2023,12/06/2023,nestling,29,predation,terrestrial_mammalian ,,0.134,8.68,1.93,1.836,1,4.375,1.301029996,red squirrel
+N45C19BDL16,bdl,cardinal ,18/05/2023,26/05/2023,incubation,14,predation,,41380.18844,0.01,1.86,1,,3,,1.008600172,
+N47R28STNY3,stny,robin,23/05/2023,05/06/2023,building,3,abandonment,,,0.05,5.35,2.34,,2,,1.477121255,weird 
+N48YW1STNY4,stny,yellow_warbler,23/05/2023,26/05/2023,building,2,abandonment,,,,,,,,,,
+N50C20TECH26,technoparc,cardinal ,24/05/2023,25/05/2023,building,3,abandonment,,31830.91418,0.037,,1.58,1.209,2,3.125,0.602059991,nest never finished 
+N51YW2TECH27,technoparc,yellow_warbler,24/05/2023,28/05/2023,building,4,abandonment,,,,,,,,,1.477121255,nest fell from place 
+N52R30BDL17,bdl,robin,25/05/2023,07/06/2023,building,3,abandonment,,28647.82277,0.072,5.13,4.59,,1,,0.371067862,
+N53GC1BDL18,bdl,gray_catbird,25/05/2023,28/06/2023,incubation,14,predation,,,,,,,,,,
+N54C21BDL19,bdl,cardinal ,25/05/2023,29/06/2023,nestling,25,predation,terrestrial_mammalian ,38197.09702,0.019,2.52,1.53,,2,,1.301029996,
+N55GC2BDL20,bdl,gray_catbird,25/05/2023,01/06/2023,laying ,8,unknown ,,73211.10262,NA,,1.95,,3,,1.004321374,
+N56YW3BDL21,bdl,yellow_warbler,25/05/2023,28/06/2023,incubation,14,unknown ,,,,7.15,,,1,,0.531478917,
+N57R31BDL22,bdl,robin,25/05/2023,26/05/2023,laying ,10,abandonment,,,,,,,,,0.903089987,could be laying or incubation???
+N58GC3BDL23,bdl,gray_catbird,25/05/2023,04/06/2023,laying ,8,abandonment,,,,,,,,,1.301029996,
+N60GC4STNY5,stny,gray_catbird,26/05/2023,27/05/2023,building,6,abandonment,,25464.73135,0.025,2.56,1.63,13.767,3,0,0.301029996,
+N63YW5TECH30,technoparc,yellow_warbler,30/05/2023,,unknown,unknown,unknown ,,0,0.022,8.71,7.79,,2,0,1,
+N64R33TECH31,technoparc,robin,30/05/2023,31/05/2023,laying ,9,predation,,12732.36567,0.04,8.71,1,1.842,2,0,1,"managed to lay 3 eggs before predated, never saw incubation"
+N66YW6TECH33,technoparc,yellow_warbler,30/05/2023,06/06/2023,building,4,unknown ,,,0.388,10.24,9.79,,2,,1.602059991,made it to the end of building
+N67C23BDL24,bdl,cardinal ,31/05/2023,04/06/2023,incubation,14,abandonment,,,,1.28,0.8,41.994,2,0,0.698970004,
+N68R35STNY6,stny,robin,01/06/2023,21/06/2023,nestling,26,predation,avian,3183.091418,0.152,6.1,2.26,,3,,,
+N69YW7TECH34,technoparc,yellow_warbler,02/06/2023,03/06/2023,laying ,6,abandonment,,15915.45709,0.008,,0.93,1.033,2,0.125,0,
+N70YW8TECH35,technoparc,yellow_warbler,02/06/2023,10/06/2023,incubation,14,abandonment,,,,,,,,,0,
+N71YW9TECH36,technoparc,yellow_warbler,02/06/2023,10/06/2023,incubation,14,predation,,22281.63993,0.009,1.5,1.22,45.527,2,3,1.602059991,
+N72YW10TECH37,technoparc,yellow_warbler,05/06/2023,23/06/2023,incubation,14,predation,,,0.082,,3.43,,2,,NA,
+N74GC5BDL25,bdl,gray_catbird,06/06/2023,07/06/2023,building,6,abandonment,,,,,,,,,1,
+N75YW11STNY7,stny,yellow_warbler,07/06/2023,21/06/2023,incubation,14,unknown ,,,0.093,5.43,3.24,NA,2,NA,0.546542663,
+N78R36TECH40,technoparc,robin,08/06/2023,14/06/2023,nestling,26,predation,terrestrial_mammalian ,12732.36567,0.109,14.74,1.45,NA,3,1.25,2.041392685,
+N79YW13TECH41,technoparc,yellow_warbler,08/06/2023,14/06/2023,nestling,26,predation,terrestrial_mammalian ,38197.09702,NA,2.33,NA,NA,2,NA,0.356025857,
+N82YW14BDL26,bdl,yellow_warbler,09/06/2023,10/06/2023,laying ,6,unknown ,,31830.91418,0.068,7.15,NA,NA,3,NA,0.354108439,could be incubationor laying???
+N83GC7BDL27,bdl,gray_catbird,09/06/2023,14/06/2023,building,6,abandonment,,12732.36567,0.015,1.78,1.17,NA,3,3.625,1.698970004,completed nest 
+N84GC8BDL28,bdl,gray_catbird,09/06/2023,02/07/2023,incubation,15,predation,,25464.73135,0.043,6.77,NA,NA,2,NA,0.361727836,
+N85YW15BDL29,bdl,yellow_warbler,09/06/2023,28/06/2023,nestling,26,predation,,15915.45709,0.025,6.4,NA,NA,2,NA,0.451786436,
+N86GC9BDL30,bdl,gray_catbird,09/06/2023,07/06/2023,building,6,predation,avian,31830.91418,0.012,NA,2.52,NA,3,NA,0.06069784,Found destroyed and parent predated 
+N87YW16BDL31,bdl,yellow_warbler,12/06/2023,17/07/2023,incubation,14,predation,,,NA,1.2,0.85,2.626,3,0,0.36361198,
+N89C24STNY9,stny,cardinal ,14/06/2023,24/06/2023,incubation,14,predation,,22281.63993,0.017,4.25,1.52,1.553,3,1.625,-0.22184875,
+N90C25STNY10,stny,cardinal ,14/06/2023,24/06/2023,incubation,14,predation,,0,0.195,4.95,1.94,3.726,NA,1.375,0.643452676,
+N91YW18STNY11,stny,yellow_warbler,14/06/2023,15/06/2023,building,4,unknown ,,,NA,NA,3.49,NA,3,NA,0.546542663,not sure if we are able to tell 
+N92YW19STNY12,stny,yellow_warbler,21/06/2023,22/06/2023,nestling,26,predation,,0,0.8,9.11,6.31,NA,2,NA,0.571708832,not sure if we are able to tell 
+N93YW20STNY13,stny,yellow_warbler,21/06/2023,21/06/2023,building,2,abandonment,,35014.0056,0.0162,2.99,2.22,NA,2,NA,NA,
+N96YW22STNY14,stny,yellow_warbler,07/05/2023,07/07/2023,nestling,26,unknown ,,0,0.103,6.96,6.31,NA,1,NA,0.243038049,
+N98C26TECH46,technoparc,cardinal ,06/07/2023,28/07/2023,incubation,14,predation,,,,,,,,,NA,
