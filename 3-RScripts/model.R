@@ -25,6 +25,8 @@ failure_data3 <- failure_data2 %>%
   mutate_if(is.numeric,~as.numeric(scale(.x))) %>%
   mutate(date_failed = as.Date(date_failed, "%d/%m/%Y"))
 
+saveRDS(failure_data3, "4-Output/failure_data3.RDS")
+
 mod <- lmer(active_days ~ coverage + canopy_cover + vertical_complexity + 
             smallstems_ha + distance_to_trail_exp + date_failed + (1|site) + (1|species), data = failure_data3)
 
