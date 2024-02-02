@@ -1,3 +1,5 @@
+#species models were overfitted so I am separating it into different scripts investigating sig variables that popped out in the global model
+
 source("3-RScripts/packages.R")
 
 failure_data3 <- readRDS("4-Output/failure_data3.RDS")
