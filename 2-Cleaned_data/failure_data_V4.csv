@@ -16,7 +16,7 @@ N20R11TECH15,technoparc,robin,08/05/2023,08/05/2023,laying ,8,predation,,25464.7
 N22C11BDL5,bdl,cardinal ,09/05/2023,09/05/2023,laying ,8,predation,avian,15915.45709,,,5.49,,1,,-0.036212173,
 N24C13BDL7,bdl,cardinal ,09/05/2023,19/05/2023,nestling,21,abandonment,,0,0.29,10.5,0.98,2.574,2,1.125,-0.096910013,
 N26C14STNY2,stny,cardinal ,10/05/2023,13/05/2023,building,6,abandonment,,12732.36567,0.448,9.97,2.5,,1,,0.255272505,
-N27R13TECH16,technoparc,robin,11/05/2023,20/05/2023,incubation,,predation,terrestrial_mammalian ,318309.1418,0.102,7.94,1.9,0.299,3,2.5,1.301029996,Weird case
+N27R13TECH16,technoparc,robin,11/05/2023,20/05/2023,incubation,16,predation,terrestrial_mammalian ,318309.1418,0.102,7.94,1.9,0.299,3,2.5,1.301029996,Weird case
 N28R14TECH17,technoparc,robin,11/05/2023,12/05/2023,building,6,abandonment,,,,,,,,,,
 N29R15TECH18,technoparc,robin,11/05/2023,31/05/2023,nestling,28,predation,,12732.36567,0.057,9.27,0.6,1.476,2,0,0.488550717,
 N30R16TECH19,technoparc,robin,11/05/2023,22/05/2023,incubation,16,predation,,12732.36567,0.045,8.6,0.9,4.421,2,2.625,0.394451681,
@@ -40,7 +40,6 @@ N56YW3BDL21,bdl,yellow_warbler,25/05/2023,28/06/2023,incubation,14,unknown ,,,,7
 N57R31BDL22,bdl,robin,25/05/2023,26/05/2023,laying ,10,abandonment,,,,,,,,,0.903089987,could be laying or incubation???
 N58GC3BDL23,bdl,gray_catbird,25/05/2023,04/06/2023,laying ,8,abandonment,,,,,,,,,1.301029996,
 N60GC4STNY5,stny,gray_catbird,26/05/2023,27/05/2023,building,6,abandonment,,25464.73135,0.025,2.56,1.63,13.767,3,0,0.301029996,
-N63YW5TECH30,technoparc,yellow_warbler,30/05/2023,,unknown,unknown,unknown ,,0,0.022,8.71,7.79,,2,0,1,
 N64R33TECH31,technoparc,robin,30/05/2023,31/05/2023,laying ,9,predation,,12732.36567,0.04,8.71,1,1.842,2,0,1,"managed to lay 3 eggs before predated, never saw incubation"
 N66YW6TECH33,technoparc,yellow_warbler,30/05/2023,06/06/2023,building,4,unknown ,,,0.388,10.24,9.79,,2,,1.602059991,made it to the end of building
 N67C23BDL24,bdl,cardinal ,31/05/2023,04/06/2023,incubation,14,abandonment,,,,1.28,0.8,41.994,2,0,0.698970004,
