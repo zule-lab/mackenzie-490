@@ -13,3 +13,5 @@ Dr. Barbara Frei, Urban Ecology & Nature-based Solutions, Environment and Climat
 Dr. Rebecca Tittler, Loyola College for Diversity and Sustainability
 
 R scripts are organized in Scripts/ and are numbered in corresponding order 1-6, raw data can be found in Input/, figures used in the report can be found in Output/.
+
+I can always be reaches at mackenzie.guest01@gmail.com
