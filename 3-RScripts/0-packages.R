@@ -1,3 +1,8 @@
+#these are all the packages I used in my analysis
+#some (many) of these are not necessary for what I ended up including in my report
+
+
+
 library(dplyr) 
 library(forcats)
 library(ggplot2)
