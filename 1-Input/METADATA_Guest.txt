@@ -1,0 +1,83 @@
+This file describes the variables in the datasets that accompany the 490 project completed by Mackenzie Guest, under the supervision of Dr. Carly Ziter, 2024: Assessing Bird Nest Vulnerability Points Across an Urban Gradient
+
+dataset: failure_data_V4.csv
+
+Nest_ID: The name of each individual nest. 
+Site: Name of site (technoparc = Technopark, stny = McGill Bird Observatory, bdl = Bois-de-Liesse). 
+Species: species of bird the nest belongs to. 
+date_found: the calendar date the nest was found. 
+date_failed: the calendar date the nest failed, which means the nest or its contents (eggs/nestlings) were removed/destroyed/abandoned. 
+active_days: this is the number of days from when the nest was first initiated by the bird, to when the nest had failed. 
+reason: suspected reason of failure
+potential_predator: suspected predator of nest if applicable. 
+smallstems_ha: this is the density of woody stems with <5cm DBH in a 1m radius surrounding the nest. 
+nest_tree_DBH: this is the DBH of the tree the nest was in. 
+nest_tree_height: the height of the tree the nest was in. 
+nest_height: the height of the nest. 
+canopy_cover: the canopy of of the individual nest. 
+vertical complexity: the vertical complexity of the space directly above and below the nest. 
+coverage: the amount the nest was coverage on all sides. 
+distance_to_trail: the shortest distance between the nest and the trail. 
+comments: comment on each nest. 
+
+
+dataset: nest_finding.xlsx
+
+Date: the date the nest was found. 
+Time: the time of day the nest was found. 
+Field_Site: name of site
+SmallorLarge: if the nearest trail to the nest was large or small. 
+NestID: The name of each individual nest.
+Species: the species of the nest that was found. 
+Latitude: latitude of the nest. 
+Longitude: longitude of the nest. 
+Stage: the stage the nest was in (building, laying, incubation, nestling) when it failed, or SUCCESS denotes a successful nest (at least one nestling reached fledgling stage), or NA if it could not be determined. 
+Predator: presence of predators nearby when nest was found (Y = yes, N = no)
+PredatorType:if there was a predator close by at time of discovery, what species. 
+Distance to trail: distance in m to the closest trail
+Success: whether the nest failed or succeeded (N = no (fail), Y = yes (success) )
+Fail_or_Success_Date: the date for which the nest either failed or succeded. 
+
+
+
+dataset: nest_monitoring.xlsx
+
+Date: the date the nest was monitored. 
+Time: the time of day the nest was monitored.
+Temperature: temperature at time of monitoring. 
+Field_Site: name of site. 
+NestCode: The name of each individual nest.
+Eggs: the number of eggs in a nest, if there were no eggs a value of 0 was given, if it could not be determined, a value of NA was given. 
+Nestlings: the number of nestlings in the nest, if there were none a value of 0 was given, if it could not be determined a value of NA was given. 
+NestStatus: the status of the nest during monitoring (CN = completed nest, IU = information unavailable, FN = flattened nest, DN = damaged nest, RN = removed nest, IN = incomplete nest) 
+YoungStatus: the status of the nestlings during monitoring (NO = no nestlings, IU = information unavailable, HY = hatched young, PY = partially feathered, FY = fully feathered) 
+Adult status: status of adult(s) at time of monitoring (NO = no parents present, RA = remained on nest, AA = flushed from nest, BA = building nest/carrying nesting material, DA = dead adult on or nest nest, FA = feeding young on nest, VA = remained in vicinity). 
+Predator: presence of predators nearby during monitoring (Y = yes, N = no)
+PredatorType:if there was a predator close by during monitoring, what species.
+
+
+
+dataset: nest_tree_veg.xlsx
+
+Date: the date of the veg survey. 
+Time: the time of day the veg survey.  
+Field_Site: name of site
+NestID: The name of each individual nest.
+Scientific_name: scientific name of the tree the nest is in. 
+Common name: common name of the tree the nest is in. 
+Nest_tree_DBH: DBH of the nest tree. 
+Nest_tree_height: height of the nest tree.
+nest_height: the height of the nest. 
+N_Coverage: the amount the nest was covered on its north side. 
+E_Coverage: the amount the nest was covered on its east side. 
+S_Coverage: the amount the nest was covered on its south side. 
+W_Coverage: the amount the nest was covered on its west side. 
+canopy_cover: the canopy of the individual nest. 
+vertical complexity: the vertical complexity of the space directly above and below the nest. 
+
+
+
+
+
+
+
